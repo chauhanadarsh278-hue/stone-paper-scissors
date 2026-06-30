@@ -1,2 +1,2 @@
 # stone-paper-scissors
-A tgame that runs on console using javascript.
+A little game that runs on console using javascript.
